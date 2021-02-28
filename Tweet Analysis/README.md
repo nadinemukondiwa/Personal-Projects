@@ -3,7 +3,7 @@ A few years ago, I started watching Korean dramas. While I have never posted on 
 
 ### What dramas that aired in 2020 had tweets with their hashtags?
 
-![](![drama_hashtags](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Korean Drama Tweets Analysis\images\drama_hashtags.png)
+![drama_hashtags](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Swarovski%20Analysis/images/drama_hashtags.png)
 
 Most hashtags used were for the drama 'Love Struck in the City.' February 1st 'Love Struck in the City' was still on Netflix as a weekly show. 
 
@@ -17,17 +17,16 @@ Surprisingly, 'The Uncanny Encounter' had its last episode on January 24th, 2021
 
 ### Which dramas were mentioned in the tweets, and how many times?
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Korean Drama Tweets Analysis\images\drama_in_tweets.png)
+![drama_in_tweets](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Swarovski%20Analysis/images/drama_in_tweets.png)
 
 There were fewer dramas mentioned in the text (not hashtags). 'Run On' had the most mentions in a tweet.
 
 
-
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Korean Drama Tweets Analysis\images\emojis_in_tweets.png)
+![emojis_in_tweets](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Swarovski%20Analysis/images/emojis_in_tweets.png)
 
 Most tweets did not contain any emojis. For tweets that did contain emojis, the highest number of emojis was 2. Some tweets had as many as 13 emojis.
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Korean Drama Tweets Analysis\images\emoji_sentiment.png)
+![emoji_sentiment](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Swarovski%20Analysis/images/emoji_sentiment.png)
 
 Most tweets had neutral emojis. There were more positive than negative emojis.
 
@@ -35,11 +34,9 @@ Positive emojis include 😍, 🤩, 😛, 😂.
 Negative emojis include 🤧, 😞, 😭, and 😬
 
 
-
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Korean Drama Tweets Analysis\images\text_sentiment.png)
-
+![text_sentiment](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Swarovski%20Analysis/images/text_sentiment.png)
 
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Korean Drama Tweets Analysis\images\tweets_per_day.png)
+![tweets_per_day](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Swarovski%20Analysis/images/tweets_per_day.png)
 
 Most of the tweets were posted on January 26 Tuesday (UTC).
