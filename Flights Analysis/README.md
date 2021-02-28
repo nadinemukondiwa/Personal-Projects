@@ -32,15 +32,13 @@ Lastly, I carried out some statistical analysis of the correlation of different 
 
 ### What is the distribution of prices?
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Flights Analysis\images\price_distribution.png)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/price_distribution.png)
 
 The lowest price of an economy flight is **$2626**, and the highest is **$3296**. Flights above **$3296** include mixed economy flights and other cabin types. Mixed economy flights are flights where one or more lags are in the premium economy cabin, which is much more expensive than the economy cabin.
 
 ### What is the distribution of flight duration (includes layover time)?
 
-
-
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Flights Analysis\images\flight_duration.png)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/flight_duration.png)
 
 The flights' average duration (including layovers) is **1 day 17 hours and 8 minutes**. As seen in Chart 1 (appendix), Ethiopian Airlines has the least variability in flight duration.  Suppose one wanted to get to Harare as quickly as possible. In that case, the Ethiopian Airlines flight, Toronto- Addis Ababa - Harare, is the best. 
 
@@ -48,7 +46,7 @@ Interestingly, the flight with the longest total flight duration is not the one 
 
 ### What is the distribution of flight time?
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Flights Analysis\images\flight_time.png)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/flight_time.png)
 
 In this, project flying time reference to the time spent on the airplane. The average flying time is  **20 hours and 6 minutes**. As mentioned above, the Ethiopian Airlines flight, Toronto- Addis Ababa - Harare, is the quickest way to get to Harare. The total flight time for that flight is **16 hours and 30 minutes**.
 
@@ -56,7 +54,7 @@ The longest flight time is an Emirate flight. The longest flight has three stops
 
 ### What is the distribution of layover time?
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Flights Analysis\images\total_layover_time.png)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/total_layover_time.png)
 
 The average layover time is **21 hours 2 minutes**. The Ethiopian Airlines flight mentioned above has the least layover time of **1 hour and 45 minutes**.  A British Airways flight with stops in London (Heathrow) and Johannesburg has the longest layover time of **1 day and 14 hours**.
 
@@ -69,7 +67,7 @@ The minimum number of stops is one through Addis Ababa with Ethiopian Airlines. 
 - Montreal (YUL), Paris, Nairobi, Lusaka
 - New York (JFK), Paris, Nairobi, Lusaka
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Flights Analysis\images\routes.png)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/routes.png)
 
 A reference, airport codes are in the appendix.
 
@@ -83,7 +81,7 @@ Based on my guess of the average price of economy flights to Harare, I found tha
 
 Chart 1
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Flights Analysis\images\airline_flight_duration.png)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/airline_flight_duration.png)
 
 Multiple includes tickets that are under more than one airline.
 
@@ -91,4 +89,4 @@ Multiple includes tickets that are under more than one airline.
 
 Airport Codes
 
-![](C:\Users\ndmuk\OneDrive\Data Analysis Projects\Data Analyst Portfolio Projects\Portfolio projects\Insights projects\FINAL FINAL Portfolio Projects\Flights Analysis\images\airport_codes.png)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/airport_codes.png)
