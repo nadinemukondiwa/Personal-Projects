@@ -4,8 +4,6 @@ Author: Nadine Mukondiwa
 
 Date: 23 February 2021
 
-[TOC]
-
 ## Introduction
 
 When I have travelled back home, I have always felt like the journey is very long and tiring. As a result, I was interested in analyzing the lengths of routes to Harare. I also wanted to estimate the average price of a flight in December 2022 based on flights' costs in December 2021.
