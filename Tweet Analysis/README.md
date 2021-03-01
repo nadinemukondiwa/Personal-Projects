@@ -3,7 +3,7 @@ A few years ago, I started watching Korean dramas. While I have never posted on 
 
 ### What dramas that aired in 2020 had tweets with their hashtags?
 
-![drama_hashtags](https://github.com/nadinemukondiwa/Personal-Projects/tree/main/Tweet%20Analysis/images/drama_hashtags.png)
+![drama_hashtags](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Tweet%20Analysis/images/drama_hashtags.png)
 
 Most hashtags used were for the drama 'Love Struck in the City.' February 1st 'Love Struck in the City' was still on Netflix as a weekly show. 
 
