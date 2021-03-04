@@ -30,7 +30,7 @@ Lastly, I carried out some statistical analysis of the correlation of different 
 
 ### What is the distribution of prices?
 
-![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/price_distribution.jpeg)
+![chart](https://github.com/nadinemukondiwa/Personal-Projects/blob/main/Flights%20Analysis/images/price_distribution.png)
 
 The lowest price of an economy flight is **$2626**, and the highest is **$3296**. Flights above **$3296** include mixed economy flights and other cabin types. Mixed economy flights are flights where one or more lags are in the premium economy cabin, which is much more expensive than the economy cabin.
 
